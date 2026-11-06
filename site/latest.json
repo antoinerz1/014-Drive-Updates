@@ -1,0 +1,15 @@
+{
+  "version": "0.2.9",
+  "notes": "014-Drive 0.2.9",
+  "pub_date": "2026-11-06T16:46:04.931Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUajhJUEFDeE5JQzRaSzlVeUlRaStsbTlpQkUvY0VEaVdFbjU0ZDNVdWw1cWRiNlI3eW9Bcmk5Nko1NjgwU1lkQ2UwQ3NzL2hYZmRTcEtpUU5YTENJbjFOSmVvVUZLTUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTgzNTQ5CWZpbGU6MDE0LURyaXZlXzAuMi45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuOQp6UkE1WFRBSnpRVFFQQUJqTkIyQVpncm9jRi9NdElLbi9saUhtSmtTTXl4cm4yeUtHUlh1WWl1ejBRWmkxQmwrUk5sZ0tmK2sremROc2VUeFBoMTBEZz09Cg==",
+      "url": "https://update-014drive.pages.dev/0.2.9/014-Drive_0.2.9_x64-setup.exe"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUajhJUEFDeE5JQzAvVGllZjFZdllZbUo0T3IrdElBWmhzbnl5SW9weUZJdVllSUFld1cyd2NFV3FVb2Fxbm9JWkFQeldVcW5aTm5LdDRUdkhkemYwdWV1aW5sRWZKVmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTgzNDc2CWZpbGU6MDE0LURyaXZlXzAuMi45X2FtZDY0LmRlYgl2ZXJzaW9uOjAuMi45ClF2aHJEa2pUbXBRakwrRXlSRzZKVXFPL05WWUp1dkNyOGZHRndwTFJJRU12aUt6ekl4SWN6bEV4WUgxZkY5Tk1kNSs2bC9xUmJyOXgzcDBtOW8rRkRRPT0K",
+      "url": "https://update-014drive.pages.dev/0.2.9/014-Drive_0.2.9_amd64.deb"
+    }
+  }
+}

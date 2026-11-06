@@ -1,0 +1,21 @@
+{
+  "version": "0.1.5",
+  "notes": "",
+  "platforms": {
+    "linux-aarch64": {
+      "url": "https://update-014drive.pages.dev/rclone/014drive-rclone-linux-aarch64",
+      "sha256": "014f2756f0e215de3bbc4f342355e8d955f839e08780e3cf0042f9d30be1e7d4",
+      "signature": "5iZwQT5U+OnBcagHK/pZw/ij7T0tDnUJYQnt/0EEIRFfSgZXo3BkcDluTAzV3G7HECkNmbrRmOeA4ytWjKCLAQ=="
+    },
+    "linux-x86_64": {
+      "url": "https://update-014drive.pages.dev/rclone/014drive-rclone-linux-x86_64",
+      "sha256": "8faa1d660f47a3ab14a8c43504cd9a9092606e2d9f016b5917c30bfeff5dedff",
+      "signature": "GBBQryBO3y4n/Ee4YtJembKTpf7l2oPiDXQO8Ys1ufoJd5F51u5RWTGri2+uMS9+JX0io+oGSTBpprHYb2YYCg=="
+    },
+    "windows-x86_64": {
+      "url": "https://update-014drive.pages.dev/rclone/014drive-rclone-windows-x86_64.exe",
+      "sha256": "39daef4789860c6a4ae2422512c027f1bdeaf5189e18fc5fbe05eeb1cf4d014d",
+      "signature": "EehvJ4u3yosVBGnBdTLUoCqo0595sJbMfur6mp8R1phWwzScN+4imiQLcwmwGFN8X+o+M507wYQRxZbCgPgVDg=="
+    }
+  }
+}
